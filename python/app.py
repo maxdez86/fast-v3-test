@@ -1,9 +1,5 @@
 """Simple test script for version check and scan hooks."""
 
-# import jmespath
-
-# print("jmespath version:", jmespath.__version__)
-
 def get_complexity_result():
     """Placeholder for external complexity tools like lizard."""
     pass
