@@ -2,4 +2,4 @@
 fast-v3-test
 
 - In-File with LICENSE
-- Simple Python package with one CVE
+- No package
