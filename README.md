@@ -14,3 +14,4 @@ fast-v3-test
 - Scenario 08: Japanese name -- 山田太郎 <taro.yamada@example.jp>
 - Scenario 09: Korean name -- 김민준 <minjun.kim@example.kr>
 - Scenario 10: Hindi name -- आरव शर्मा <aarav.sharma@example.in>
+- Scenario 11: Tamil name -- அருண் குமார் <arun.kumar@example.in>
