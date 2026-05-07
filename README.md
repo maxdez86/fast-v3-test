@@ -16,3 +16,4 @@ fast-v3-test
 - Scenario 10: Hindi name -- आरव शर्मा <aarav.sharma@example.in>
 - Scenario 11: Tamil name -- அருண் குமார் <arun.kumar@example.in>
 - Scenario 12: Arabic name -- ليلى حسن <layla.hassan@example.eg>
+- Scenario 13: Hebrew name -- נועה כהן <noa.cohen@example.il>
