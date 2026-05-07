@@ -21,3 +21,4 @@ fast-v3-test
 - Scenario 15: Greek name -- Ελένη Παπαδοπούλου <eleni.p@example.gr>
 - Scenario 16: Accented Latin -- María García <maria.garcia@example.es>
 - Scenario 17: Portuguese accents -- João Núñez <joao.nunez@example.br>
+- Scenario 18: Apostrophe in name -- Anne O'Connor <anne.oconnor@example.ie>
