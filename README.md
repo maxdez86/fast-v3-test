@@ -42,3 +42,4 @@ fast-v3-test
 - Scenario 36: Deleted/unknown user style -- ghost <ghost@example.com>
 - Scenario 37: Same email, different name A -- Robert Carlos <shared@example.com>
 - Scenario 38: Same email, different name B -- Roberto Carlos <shared@example.com>
+- Scenario 39: Same name, different email A -- Duplicate Name <duplicate.one@example.com>
