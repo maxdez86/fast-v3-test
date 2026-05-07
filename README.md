@@ -40,3 +40,4 @@ fast-v3-test
 - Scenario 34: GitHub Actions bot -- github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 - Scenario 35: Service account -- svc-ingestion <svc-ingestion@example.internal>
 - Scenario 36: Deleted/unknown user style -- ghost <ghost@example.com>
+- Scenario 37: Same email, different name A -- Robert Carlos <shared@example.com>
