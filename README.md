@@ -31,3 +31,4 @@ fast-v3-test
 - Scenario 25: Uppercase email -- Case User <CASE.USER@EXAMPLE.COM>
 - Scenario 26: Mixed-case email -- Mixed Case <Mixed.Case+Tag@Example.Org>
 - Scenario 27: Subdomain email -- Subdomain User <user@dev.mail.example.co.uk>
+- Scenario 28: Punycode domain -- Punycode User <user@xn--exmple-cua.com>
