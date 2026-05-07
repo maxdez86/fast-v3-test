@@ -24,3 +24,4 @@ fast-v3-test
 - Scenario 18: Apostrophe in name -- Anne O'Connor <anne.oconnor@example.ie>
 - Scenario 19: Hyphenated name -- Jean-Luc Picard <jean-luc.picard@example.org>
 - Scenario 20: Multi-part name -- Maria da Silva Santos <maria.santos@example.com>
+- Scenario 21: Single-word name -- Cher <cher@example.com>
