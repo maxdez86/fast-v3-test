@@ -30,3 +30,4 @@ fast-v3-test
 - Scenario 24: Plus addressing -- CI User <ci+build.123@example.com>
 - Scenario 25: Uppercase email -- Case User <CASE.USER@EXAMPLE.COM>
 - Scenario 26: Mixed-case email -- Mixed Case <Mixed.Case+Tag@Example.Org>
+- Scenario 27: Subdomain email -- Subdomain User <user@dev.mail.example.co.uk>
