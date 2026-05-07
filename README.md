@@ -19,3 +19,4 @@ fast-v3-test
 - Scenario 13: Hebrew name -- נועה כהן <noa.cohen@example.il>
 - Scenario 14: Cyrillic name -- Иван Петров <ivan.petrov@example.ru>
 - Scenario 15: Greek name -- Ελένη Παπαδοπούλου <eleni.p@example.gr>
+- Scenario 16: Accented Latin -- María García <maria.garcia@example.es>
