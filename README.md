@@ -29,3 +29,4 @@ fast-v3-test
 - Scenario 23: Very long valid email local part -- Long Email <aaaaaaaaaaaaaaaaaaaaaaaaaaaa@example.com>
 - Scenario 24: Plus addressing -- CI User <ci+build.123@example.com>
 - Scenario 25: Uppercase email -- Case User <CASE.USER@EXAMPLE.COM>
+- Scenario 26: Mixed-case email -- Mixed Case <Mixed.Case+Tag@Example.Org>
