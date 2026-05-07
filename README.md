@@ -11,3 +11,4 @@ fast-v3-test
 - Scenario 05: Empty email with accented name -- José Silva <>
 - Scenario 06: Empty email with Chinese name -- 李雷 <>
 - Scenario 07: Chinese name -- 李雷 <li.lei@example.cn>
+- Scenario 08: Japanese name -- 山田太郎 <taro.yamada@example.jp>
