@@ -36,3 +36,4 @@ fast-v3-test
 - Scenario 30: No-at-sign email -- No At <no-at-sign>
 - Scenario 31: Localhost email -- Localhost User <user@localhost>
 - Scenario 32: Numeric email/domain -- Numeric User <12345@67890.example>
+- Scenario 33: Bot identity -- dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
