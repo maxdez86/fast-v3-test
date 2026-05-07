@@ -25,3 +25,4 @@ fast-v3-test
 - Scenario 19: Hyphenated name -- Jean-Luc Picard <jean-luc.picard@example.org>
 - Scenario 20: Multi-part name -- Maria da Silva Santos <maria.santos@example.com>
 - Scenario 21: Single-word name -- Cher <cher@example.com>
+- Scenario 22: Very long valid name -- Alexandria Cassandra Montgomery-Singh de la Cruz van der Meer Al-Hassan O'Neill Petrova Yamamoto Kaur Ben-David Silva <long.name@example.com>
