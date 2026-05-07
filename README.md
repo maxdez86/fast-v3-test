@@ -8,3 +8,4 @@ fast-v3-test
 - Scenario 02: Existing-domain style -- Maxuel Reis <max@semasoftware.com>
 - Scenario 03: GitHub noreply -- Max Reis <33838048+maxreis86@users.noreply.github.com>
 - Scenario 04: Empty email -- Null Email User <>
+- Scenario 05: Empty email with accented name -- José Silva <>
