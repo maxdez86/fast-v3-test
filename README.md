@@ -35,3 +35,4 @@ fast-v3-test
 - Scenario 29: Unicode email local part -- Unicode Email <用户@example.com>
 - Scenario 30: No-at-sign email -- No At <no-at-sign>
 - Scenario 31: Localhost email -- Localhost User <user@localhost>
+- Scenario 32: Numeric email/domain -- Numeric User <12345@67890.example>
