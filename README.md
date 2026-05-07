@@ -28,3 +28,4 @@ fast-v3-test
 - Scenario 22: Very long valid name -- Alexandria Cassandra Montgomery-Singh de la Cruz van der Meer Al-Hassan O'Neill Petrova Yamamoto Kaur Ben-David Silva <long.name@example.com>
 - Scenario 23: Very long valid email local part -- Long Email <aaaaaaaaaaaaaaaaaaaaaaaaaaaa@example.com>
 - Scenario 24: Plus addressing -- CI User <ci+build.123@example.com>
+- Scenario 25: Uppercase email -- Case User <CASE.USER@EXAMPLE.COM>
