@@ -1,2 +1,3 @@
 scenario 07: internationalized name and email together
 7a|author=Åsa Björk <åsa@exämple.org>|committer=Åsa Björk <åsa@exämple.org>|date=2026-05-08T12:00:00-0300
+7b|author=Asa Bjork <åsa@EXÄMPLE.ORG>|committer=Asa Bjork <åsa@EXÄMPLE.ORG>|date=2026-05-08T12:00:00-0300
