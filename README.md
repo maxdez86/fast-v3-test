@@ -3,3 +3,44 @@ fast-v3-test
 
 - In-File with LICENSE
 - Simple Python package with one CVE
+## Commit identity ingestion stress
+- Scenario 01: Baseline ASCII -- Alice Smith <alice.smith@example.com>
+- Scenario 02: Existing-domain style -- Maxuel Reis <max@semasoftware.com>
+- Scenario 03: GitHub noreply -- Max Reis <33838048+maxreis86@users.noreply.github.com>
+- Scenario 04: Empty email -- Null Email User <>
+- Scenario 05: Empty email with accented name -- José Silva <>
+- Scenario 06: Empty email with Chinese name -- 李雷 <>
+- Scenario 07: Chinese name -- 李雷 <li.lei@example.cn>
+- Scenario 08: Japanese name -- 山田太郎 <taro.yamada@example.jp>
+- Scenario 09: Korean name -- 김민준 <minjun.kim@example.kr>
+- Scenario 10: Hindi name -- आरव शर्मा <aarav.sharma@example.in>
+- Scenario 11: Tamil name -- அருண் குமார் <arun.kumar@example.in>
+- Scenario 12: Arabic name -- ليلى حسن <layla.hassan@example.eg>
+- Scenario 13: Hebrew name -- נועה כהן <noa.cohen@example.il>
+- Scenario 14: Cyrillic name -- Иван Петров <ivan.petrov@example.ru>
+- Scenario 15: Greek name -- Ελένη Παπαδοπούλου <eleni.p@example.gr>
+- Scenario 16: Accented Latin -- María García <maria.garcia@example.es>
+- Scenario 17: Portuguese accents -- João Núñez <joao.nunez@example.br>
+- Scenario 18: Apostrophe in name -- Anne O'Connor <anne.oconnor@example.ie>
+- Scenario 19: Hyphenated name -- Jean-Luc Picard <jean-luc.picard@example.org>
+- Scenario 20: Multi-part name -- Maria da Silva Santos <maria.santos@example.com>
+- Scenario 21: Single-word name -- Cher <cher@example.com>
+- Scenario 22: Very long valid name -- Alexandria Cassandra Montgomery-Singh de la Cruz van der Meer Al-Hassan O'Neill Petrova Yamamoto Kaur Ben-David Silva <long.name@example.com>
+- Scenario 23: Very long valid email local part -- Long Email <aaaaaaaaaaaaaaaaaaaaaaaaaaaa@example.com>
+- Scenario 24: Plus addressing -- CI User <ci+build.123@example.com>
+- Scenario 25: Uppercase email -- Case User <CASE.USER@EXAMPLE.COM>
+- Scenario 26: Mixed-case email -- Mixed Case <Mixed.Case+Tag@Example.Org>
+- Scenario 27: Subdomain email -- Subdomain User <user@dev.mail.example.co.uk>
+- Scenario 28: Punycode domain -- Punycode User <user@xn--exmple-cua.com>
+- Scenario 29: Unicode email local part -- Unicode Email <用户@example.com>
+- Scenario 30: No-at-sign email -- No At <no-at-sign>
+- Scenario 31: Localhost email -- Localhost User <user@localhost>
+- Scenario 32: Numeric email/domain -- Numeric User <12345@67890.example>
+- Scenario 33: Bot identity -- dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+- Scenario 34: GitHub Actions bot -- github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+- Scenario 35: Service account -- svc-ingestion <svc-ingestion@example.internal>
+- Scenario 36: Deleted/unknown user style -- ghost <ghost@example.com>
+- Scenario 37: Same email, different name A -- Robert Carlos <shared@example.com>
+- Scenario 38: Same email, different name B -- Roberto Carlos <shared@example.com>
+- Scenario 39: Same name, different email A -- Duplicate Name <duplicate.one@example.com>
+- Scenario 40: Same name, different email B -- Duplicate Name <duplicate.two@example.com>

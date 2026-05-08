@@ -1,0 +1,5 @@
+scenario 10: collision risk with low-quality email
+10a|author=John Smith <invalid-email>|committer=John Smith <invalid-email>|date=2026-05-08T12:00:00-0300
+10b|author=john smith <invalid-email>|committer=john smith <invalid-email>|date=2026-05-08T12:00:00-0300
+10c|author=John-Smith <invalid-email>|committer=Verifier User <verifier.user@example.com>|date=2026-05-08T12:00:00-0300
+10d|author=John Smith <john.smith.other@example.com>|committer=John Smith <john.smith.other@example.com>|date=2026-05-08T12:00:00-0300

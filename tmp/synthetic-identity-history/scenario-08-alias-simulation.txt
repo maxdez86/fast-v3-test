@@ -1,0 +1,4 @@
+scenario 08: canonical and raw alias simulation
+8a|author=Max Reis <max.reis@old-example.com>|committer=Max Reis <max.reis@old-example.com>|date=2026-05-08T12:00:00-0300
+8b|author=Max Reis <max.reis@new-example.com>|committer=Max Reis <max.reis@new-example.com>|date=2026-05-08T12:00:00-0300
+8c|author=Max-Reis <MAX.REIS@NEW-EXAMPLE.COM>|committer=Migration Bot <migration.bot@example.com>|date=2026-05-08T12:00:00-0300

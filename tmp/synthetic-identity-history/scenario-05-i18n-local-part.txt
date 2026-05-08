@@ -1,0 +1,3 @@
+scenario 05: internationalized email local-part
+5a|author=Li Wei <用户@example.com>|committer=Li Wei <用户@example.com>|date=2026-05-08T12:00:00-0300
+5b|author=Li Wei <用户@EXAMPLE.COM>|committer=Li Wei <用户@EXAMPLE.COM>|date=2026-05-08T12:00:00-0300

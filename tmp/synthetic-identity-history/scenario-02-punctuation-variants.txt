@@ -1,0 +1,5 @@
+scenario 02: punctuation variants in name
+2a|author=ry-ss-apptegy <ry@example.com>|committer=ry-ss-apptegy <ry@example.com>|date=2026-05-08T12:00:00-0300
+2b|author=ry ss apptegy <ry@example.com>|committer=ry ss apptegy <ry@example.com>|date=2026-05-08T12:00:00-0300
+2c|author=ry_ss_apptegy <ry@example.com>|committer=ry_ss_apptegy <ry@example.com>|date=2026-05-08T12:00:00-0300
+2d|author=RY.SS.APPTEGY <ry@example.com>|committer=RY.SS.APPTEGY <ry@example.com>|date=2026-05-08T12:00:00-0300

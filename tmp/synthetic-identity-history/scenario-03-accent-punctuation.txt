@@ -1,0 +1,4 @@
+scenario 03: accent and punctuation combined
+3a|author=François-Xavier <francois@example.com>|committer=François-Xavier <francois@example.com>|date=2026-05-08T12:00:00-0300
+3b|author=Francois Xavier <francois@example.com>|committer=Francois Xavier <francois@example.com>|date=2026-05-08T12:00:00-0300
+3c|author=FRANÇOIS_XAVIER <francois@example.com>|committer=FRANÇOIS_XAVIER <francois@example.com>|date=2026-05-08T12:00:00-0300
