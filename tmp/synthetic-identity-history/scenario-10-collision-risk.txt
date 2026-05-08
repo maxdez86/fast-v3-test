@@ -1,0 +1,2 @@
+scenario 10: collision risk with low-quality email
+10a|author=John Smith <invalid-email>|committer=John Smith <invalid-email>|date=2026-05-08T12:00:00-0300
