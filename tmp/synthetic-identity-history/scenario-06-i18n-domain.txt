@@ -1,0 +1,2 @@
+scenario 06: internationalized email domain
+6a|author=Miyuki Tanaka <miyuki@bücher.example>|committer=Miyuki Tanaka <miyuki@bücher.example>|date=2026-05-08T12:00:00-0300
