@@ -1,2 +1,3 @@
 scenario 04: email case variants
 4a|author=Dev User <Dev.User@Example.com>|committer=Dev User <Dev.User@Example.com>|date=2026-05-08T12:00:00-0300
+4b|author=Dev User <dev.user@example.com>|committer=Release Bot <release.bot@example.com>|date=2026-05-08T12:00:00-0300
