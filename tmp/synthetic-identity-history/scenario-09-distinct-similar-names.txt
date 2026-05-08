@@ -1,3 +1,4 @@
 scenario 09: distinct people with similar normalized names
 9a|author=Jose Alvarez <jose.a.team1@example.com>|committer=Jose Alvarez <jose.a.team1@example.com>|date=2026-05-08T12:00:00-0300
 9b|author=José Alvarez <jose.a.team2@example.com>|committer=José Alvarez <jose.a.team2@example.com>|date=2026-05-08T12:00:00-0300
+9c|author=Jose-Alvarez <jose.a.team3@example.com>|committer=Jose-Alvarez <jose.a.team3@example.com>|date=2026-05-08T12:00:00-0300
