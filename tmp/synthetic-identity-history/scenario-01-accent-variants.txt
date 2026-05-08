@@ -1,2 +1,3 @@
 scenario 01: accent variants in name
 1a|author=José Alvarez <jose.alvarez@example.com>|committer=José Alvarez <jose.alvarez@example.com>|date=2026-05-08T12:00:00-0300
+1b|author=Jose Alvarez <jose.alvarez@example.com>|committer=Jose Alvarez <jose.alvarez@example.com>|date=2026-05-08T12:00:00-0300
