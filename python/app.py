@@ -1,4 +1,4 @@
-"""Simple test script for version check and scan hooks."""
+"""Simple test script for version check and scan hooks"""
 
 # Replace jmespath with jupyter-core version check
 import jupyter_core
